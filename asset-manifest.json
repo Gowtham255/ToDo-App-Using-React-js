@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gowtham255/ToDo-App-Using-React-js.git/static/css/main.4313beab.css",
+    "main.js": "/Gowtham255/ToDo-App-Using-React-js.git/static/js/main.b6676bef.js",
+    "static/js/453.bf888636.chunk.js": "/Gowtham255/ToDo-App-Using-React-js.git/static/js/453.bf888636.chunk.js",
+    "index.html": "/Gowtham255/ToDo-App-Using-React-js.git/index.html",
+    "main.4313beab.css.map": "/Gowtham255/ToDo-App-Using-React-js.git/static/css/main.4313beab.css.map",
+    "main.b6676bef.js.map": "/Gowtham255/ToDo-App-Using-React-js.git/static/js/main.b6676bef.js.map",
+    "453.bf888636.chunk.js.map": "/Gowtham255/ToDo-App-Using-React-js.git/static/js/453.bf888636.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4313beab.css",
+    "static/js/main.b6676bef.js"
+  ]
+}
