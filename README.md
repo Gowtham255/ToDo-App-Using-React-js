@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+## Open [https://gowtham255.github.io/ToDo-App-Using-React-js/] to view it in your browser.
+<img width="936" height="602" alt="preview" src="https://github.com/user-attachments/assets/cf802b2b-2fa0-4460-95bc-22ed39c72ba2" />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-<img width="936" height="602" alt="preview" src="https://github.com/user-attachments/assets/cf802b2b-2fa0-4460-95bc-22ed39c72ba2" />
+
 
 ## Available Scripts
 
@@ -12,7 +13,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [https://gowtham255.github.io/ToDo-App-Using-React-js/] to view it in your browser.
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
